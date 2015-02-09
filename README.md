@@ -1,5 +1,5 @@
 # Laravel-Segment
-Segment.com wrapper for Laravel 4
+Segment.com wrapper for Laravel.
 
 ## Installation
 
@@ -7,7 +7,7 @@ Add the following to your `composer.json` file.
 
 ```json
 "require": {
-    "cachethq/segment": "1.0.*@dev"
+    "cachethq/segment": "~2.0"
 }
 ```
 
